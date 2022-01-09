@@ -1,0 +1,8 @@
+# IntellijIdea
+.idea/
+
+# Dependencies
+node_modules/
+
+# Production
+build/
